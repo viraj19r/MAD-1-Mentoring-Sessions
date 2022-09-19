@@ -56,7 +56,7 @@ Mentors present: Viraj, Jayvin, Laxminandan
 - One student, Ananya showed us her website that she created using html and bootstrap.
 
 
-#### 13/9/2022 (Tuesday)
+### 13/9/2022 (Tuesday)
 Mentors present : Viraj, Jayvin, Laxminandan
 
 Today was the first gmeet, and we had an informal introduction session. We planned how to best utilize these study sessions.
