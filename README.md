@@ -1,8 +1,8 @@
 # MAD-1 Mentoring Sessions
 
 
-- [Seller website Wireframes](./basic_website/wireframes.md)
-- [Seller Website](./basic_website)
+- [Seller website Wireframes](./seller_dashboard/wireframes.md)
+- [Seller Website](./seller_dashboard)
 
 
 
