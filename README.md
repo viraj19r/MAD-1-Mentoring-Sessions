@@ -14,7 +14,11 @@
 
 ## Meeting Logs
 
+### 19/9/2022 (Sunday)
+Mentors present: Laxminandan, Viraj, Jayvin
 
+- Several students joined over time (130+)
+- Designed a seller website - frontend page, starting with a rough wireframe.
 
 
 ### 18/9/2022 (Sunday)
