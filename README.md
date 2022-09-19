@@ -1,8 +1,8 @@
 # MAD-1 Mentoring Sessions
 
 
-- [HTML CSS Wireframes](./basic_website/wireframes.md)
-- [HTML CSS Website](./basic_website)
+- [Seller website Wireframes](./basic_website/wireframes.md)
+- [Seller Website](./basic_website)
 
 
 
