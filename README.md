@@ -5,7 +5,7 @@
 - [Seller Website](./seller_dashboard)
 
 ___
-# DISCLAIMER
+### DISCLAIMER
 Please do not copy the codes that are shared here in your projects. These are only for your reference. If you copy the code without any changes (or little changes) there is a very high chance that your project will be marked for plagiarism, and you will have to redo the project.
 ___
 <br>
