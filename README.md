@@ -1,2 +1,6 @@
-# MAD-1-Mentoring-Sessions
-Codes shared during sessions, meeting logs and schedule
+# MAD-1 Mentoring Sessions
+
+
+- [Meeting Logs]()
+- [HTML CSS Website]()
+- 
