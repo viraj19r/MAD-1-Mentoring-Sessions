@@ -14,7 +14,14 @@
 
 ## Meeting Logs
 
-### 19/9/2022 (Sunday)
+### 20/9/2022 (Tuesday) - Agenda
+
+
+- [ ] Continue working on the same seller's website
+
+
+
+### 19/9/2022 (Monday)
 Mentors present: Laxminandan, Viraj, Jayvin
 
 - Several students joined over time (130+)
