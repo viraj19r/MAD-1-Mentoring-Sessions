@@ -6,12 +6,10 @@
 
 ___
 ### DISCLAIMER
-Please do not copy the codes that are shared here in your projects. These are only for your reference. If you copy the code without any changes (or little changes) there is a very high chance that your project will be marked for plagiarism, and you will have to redo the project.
+Please do not copy the code that is shared here in your projects. This is only for your reference. If you copy the code without any changes (or little changes) there is a very high chance that your project will be marked for plagiarism, and you will have to redo the project.
 ___
 <br>
 <br>
-<br>
-
 ## Meeting Logs
 
 ### 20/9/2022 (Tuesday) - Agenda
