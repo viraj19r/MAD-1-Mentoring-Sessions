@@ -4,7 +4,6 @@
     margin: 0;
     padding: 0;
     font-family: 'Baloo Da 2', sans-serif;
-    font-size: 1em;
 }
 
 a {
@@ -25,15 +24,15 @@ a {
     background: #52445C;
     display: flex;
     flex-direction: column;
-    gap: 20px;
     color: white;
 }
 
 #left > a {
     height: 50px;
-    padding: 8px 0;
-    display: grid;
-    place-items: center;
+    padding-left: 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
 }
 
 #left > a:hover {
@@ -43,13 +42,13 @@ a {
 #hdr {
     align-self: center;
     text-align: center;
+    margin-bottom: 20px;
 }
 
 .logo {
     margin-top: 20px;
     height: 100px;
     width: 100px;
-    background: white;
     border-radius: 50%;
     background: white;
     border: 5px solid yellow;
@@ -64,4 +63,9 @@ a {
     position: absolute;
     top: 0px;
     left: -13px; */
+}
+
+.active {
+    color: #F7CB67;
+    font-weight: 800;
 }

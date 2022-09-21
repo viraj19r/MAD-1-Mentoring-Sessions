@@ -5,6 +5,7 @@
     padding-top: 25px;
     padding: 10px 15%;
     overflow-y: scroll;
+    scrollbar-width: none;  /* Firefox */
 }
 
 #right::-webkit-scrollbar {
