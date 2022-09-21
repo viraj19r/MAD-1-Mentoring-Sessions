@@ -10,6 +10,7 @@ ___
 
 ### 20/9/2022 (Tuesday) - Agenda
 - [x] Continue working on the same seller's website
+
 Finished the products and order pages part as planned.
 
 
