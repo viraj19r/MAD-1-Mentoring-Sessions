@@ -57,7 +57,7 @@ Mentors present: Viraj, Jayvin, Laxminandan
 - 8 to 9 we’re discussing course and theory related discussions.
 - Clarified doubts related to lab assignment for 2-3 students.
 - Few students talked about doing late night sessions between 10pm and 12am.
-- One student, Ananya showed us her website that she created using html and bootstrap.
+- One student showed us their website that they created using html and bootstrap.
 
 
 ### 13/9/2022 (Tuesday)
