@@ -1,23 +1,16 @@
 # MAD-1 Mentoring Sessions
-
-
 - [Seller website Wireframes](./seller_dashboard/wireframes.md)
 - [Seller Website](./seller_dashboard)
-
 ___
 ### DISCLAIMER
 Please do not copy the code that is shared here in your projects. This is only for your reference. If you copy the code without any changes (or little changes) there is a very high chance that your project will be marked for plagiarism, and you will have to redo the project.
 ___
-<br>
-<br>
 
 ## Meeting Logs
 
 ### 20/9/2022 (Tuesday) - Agenda
-
-
-- [ ] Continue working on the same seller's website
-
+- [x] Continue working on the same seller's website
+Finished the products and order pages part as planned.
 
 
 ### 19/9/2022 (Monday)
