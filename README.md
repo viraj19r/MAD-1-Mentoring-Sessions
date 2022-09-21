@@ -10,6 +10,7 @@ Please do not copy the code that is shared here in your projects. This is only f
 ___
 <br>
 <br>
+
 ## Meeting Logs
 
 ### 20/9/2022 (Tuesday) - Agenda
