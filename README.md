@@ -16,6 +16,10 @@ Mentors present: Jayvin, Laxminandan, Viraj
 - demonstrated the basics of jinja templating
 - discussed the jinja2 documentation
 
+Links shared:
+- [Official Documentation](https://jinja.palletsprojects.com/)
+- [Jinja2 Filters](https://tedboy.github.io/jinja2/templ14.html)
+
 
 
 ### 22/9/2022 (Thursday)
