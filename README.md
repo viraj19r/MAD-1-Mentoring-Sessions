@@ -17,7 +17,7 @@ Mentors present: Jayvin, Laxminandan, Viraj
 - discussed the jinja2 documentation
 
 Links shared:
-- [Official Documentation](https://jinja.palletsprojects.com/)
+- [Official Jinja2 Documentation](https://jinja.palletsprojects.com/)
 - [Jinja2 Filters](https://tedboy.github.io/jinja2/templ14.html)
 
 
