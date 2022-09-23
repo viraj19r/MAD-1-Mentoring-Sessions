@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="products.css">
+    <title>Products</title>
+</head>
+<body>
+    <div class="container">
+        <nav id="left">
+            <div id="hdr">
+                <p>{{seller['shop_name']}}</p>
+                <div class="logo">
+                    <img src="img/logo/{{ seller['logo'] }}" alt="">
+                </div>
+            </div>
+            <a href="index.html">My Profile</a>
+            <a href="products.html">Products</a>
+            <a href="orders.html">Orders</a>
+            <a href="#">Log out</a>
+        </nav>
+        <div id="right">
+            <div id="top">
+                <p>{{seller['email']}}</p>
+                <div id="profile">
+                    <img src="/img/profile/{{ seller['profile_img'] }}" alt=""/>
+                </div>
+            </div>
+            <div id="status">
+                <form action="#">
+                    <select name="sort" id="sort">
+                        <option value="asc">A-Z (ascending)</option>
+                        <option value="desc">Z-A (descending)</option>
+                        <option value="price-hl">Price: High to Low</option>
+                        <option value="price-lh">Price: Low to High</option>
+                    </select>
+                    <input type="submit" value="Sort">
+                </form>
+                <h3>My Products</h3>
+                <form action="#">
+                    <input type="text" name="search" id="search" placeholder="Search">
+                    <input type="submit" value="Search">
+                </form>
+            </div>
+            <div id="main">
+            {% for product in products %}
+                <div class="box">
+                    <div class="box-img">
+                        <img src="img/product/{{ product['img'] }}" alt="lamp">
+                    </div>
+                    <div class="info">
+                        <h2 class="name">{{ product['name'] }}</h2>
+                        <p class="model">Model: <strong>{{ product['model'] }}</strong></p>
+                    </div>
+                    <div class="stats">
+                        <p class="quantity">Stock: <strong>{{ product['stock'] }}</strong></p>
+                        <p class="sold">Sold: <strong>{{ product['sold'] }}</strong></p>
+                        <div class="discount">Discount: <strong>{{ product['discount'] }}%</strong></div>
+                    </div>
+                    <div class="price">₹{{ product['price'] }}</div>
+                </div>
+            {% endfor %}
+            </div>
+        </div>
+    </div>
+</body>
+</html>
