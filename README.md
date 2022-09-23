@@ -12,7 +12,7 @@ ___
 Mentors present: Laxminandan, Jayvin
 
 - very few people joined (less than 5)
-- discussed theory, html/css, jinja2 screencast etc
+- discussed theory, html/css, jinja2 screencast etc and addressed lab assignment related queries
 - discussed about website layout and CSS with one student
 
 
