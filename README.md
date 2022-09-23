@@ -8,6 +8,16 @@ ___
 
 ## Meeting Logs
 
+### 23/9/2022 (Friday)
+Mentors present: Jayvin, Laxminandan, Viraj
+
+- Jinja2 live coding session
+- roughly 50 participants
+- demonstrated the basics of jinja templating
+- discussed the jinja2 documentation
+
+
+
 ### 22/9/2022 (Thursday)
 Mentors present: Laxminandan, Jayvin
 
