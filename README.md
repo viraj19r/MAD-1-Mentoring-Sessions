@@ -8,7 +8,21 @@ ___
 
 ## Meeting Logs
 
-### 20/9/2022 (Tuesday) - Agenda
+### 22/9/2022 (Thursday)
+Mentors present: Laxminandan, Jayvin
+
+- very few people joined (less than 5)
+- discussed week 3 lab assignment, jinja2 etc
+- discussed about website layout and CSS with one student
+
+
+### 21/9/2022 (Wednesday)
+Mentors present: Laxminandan, Viraj, Jayvin
+
+- Very few people joined (less than 5)
+- Discussed theory and lab assignments
+
+### 20/9/2022 (Tuesday)
 - Continued working on the same seller's website
 - Attendance was lower than yesterday (around 40).
 - Finished the products and order pages part as planned.
