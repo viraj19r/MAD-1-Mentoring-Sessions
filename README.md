@@ -12,7 +12,7 @@ ___
 Mentors present: Laxminandan, Jayvin
 
 - very few people joined (less than 5)
-- discussed week 3 lab assignment, jinja2 etc
+- discussed theory, html/css, jinja2 screencast etc
 - discussed about website layout and CSS with one student
 
 
@@ -20,7 +20,7 @@ Mentors present: Laxminandan, Jayvin
 Mentors present: Laxminandan, Viraj, Jayvin
 
 - Very few people joined (less than 5)
-- Discussed theory and lab assignments
+- Discussed theory and addressed lab assignment related queries
 
 ### 20/9/2022 (Tuesday)
 - Continued working on the same seller's website
