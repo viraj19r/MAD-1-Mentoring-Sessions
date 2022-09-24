@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jinja2 Demo</title>
+</head>
+<body>
+    {% for student in students %}
+    <div style="text-align: center;border:2px solid black; background-color:{{ loop.cycle('grey','white')}}">
+    <h1>{{ loop.index }}</h1>
+    <br>
+    <h1>Hello My Name is {{ student['name'] }}</h1>
+    <br>
+    <h1>and i am currently studying {{ student.subject }}</h1>
+    <br>
+    </div>
+    {% endfor %}
+</body>
+</html>

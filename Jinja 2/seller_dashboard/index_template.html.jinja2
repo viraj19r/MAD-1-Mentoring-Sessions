@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="profile.css">
+    <title>My Profile</title>
+</head>
+<body>
+    <div class="container">
+        <nav id="left">
+            <div id="hdr">
+                <p>{{seller['shop_name']}}</p>
+                <div class="logo">
+                    <img src="img/logo/{{ seller['logo'] }}" alt="">
+                </div>
+            </div>
+            <a href="index.html">My Profile</a>
+            <a href="products.html">Products</a>
+            <a href="orders.html">Orders</a>
+            <a href="#">Log out</a>
+        </nav>
+        <div id="right">
+            <p><strong>Shop Name:</strong>{{ seller['shop_name'] }}</p>
+            <p><strong>Owner Name:</strong> {{ seller['shop_owner'] }}</p>
+            <p><strong>Email:</strong>{{ seller['email'] }}</p>
+            <address>
+                <strong>Address:</strong>
+                {{ seller['shop_address'] }}
+            </address>
+            <p><strong>PAN No.:</strong>{{ seller['pan_no'] }}</p>
+            <article>
+                <strong>About our company:</strong>&nbsp;
+                <p>
+                {{ seller['about'] }}
+                </p>
+            </article>
+        </div>
+    </div>
+</body>
+</html>
